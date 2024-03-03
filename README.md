@@ -47,6 +47,6 @@ We extend our appreciation to the agricultural community and developers who cont
 
 ## Deployed App
 
-Check out the deployed AI Driven AgriTech App at: [AI Driven AgriTech App]((https://huggingface.co/spaces/Raghavendra0827/Ai-Driven-AgriTech-App)https://huggingface.co/spaces/Raghavendra0827/Ai-Driven-AgriTech-App)
+Check out the deployed AI Driven AgriTech App at: [AI Driven AgriTech App](https://huggingface.co/spaces/Raghavendra0827/Ai-Driven-AgriTech-App)
 
 ---
