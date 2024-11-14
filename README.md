@@ -29,24 +29,19 @@ Certain features require authentication, such as personalized recommendations an
 
 ## About the Author
 
-The AI Driven AgriTech App is developed by [Raghavendra KN](https://github.com/Raghavendra0827), a dedicated agricultural enthusiast and software developer committed to revolutionizing farming practices through technology.
+The AI Driven AgriTech App is developed by [Gunavantha M](https://github.com/Gunavantha2669/ai-driven-agri-tech-app.git), a dedicated agricultural enthusiast and software developer committed to revolutionizing farming practices through technology.
 
 ## Get in Touch
 
 For inquiries, feedback, or support, feel free to contact us:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/raghavendra-k-n-612553250)
-[![Email](https://img.shields.io/badge/Email-raghavendrakn076%40gmail.com-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghavendrakn076@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%209353888374-ff69b4?style=for-the-badge&logo=phone&logoColor=white)](tel:+919353888374)
-[![Email](https://img.shields.io/badge/Email-raghavendrakn076%40gmail.com-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghavendrakn076@gmail.com)
+[![Email](https://img.shields.io/badge/Email-gunavanthagowda10@gmail.com-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gunavanthagowda10@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B91%209353888374-ff69b4?style=for-the-badge&logo=phone&logoColor=white)](tel:+917760683227)
 
 
 ## Acknowledgments
 
 We extend our appreciation to the agricultural community and developers who contributed to the tools and datasets used in this app.
 
-## Deployed App
-
-Check out the deployed AI Driven AgriTech App at: [AI Driven AgriTech App](https://huggingface.co/spaces/Raghavendra0827/Ai-Driven-AgriTech-App)
 
 ---
