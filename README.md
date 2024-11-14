@@ -36,7 +36,7 @@ The AI Driven AgriTech App is developed by [Gunavantha M](https://github.com/Gun
 For inquiries, feedback, or support, feel free to contact us:
 
 [![Email](https://img.shields.io/badge/Email-gunavanthagowda10@gmail.com-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gunavanthagowda10@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%209353888374-ff69b4?style=for-the-badge&logo=phone&logoColor=white)](tel:+917760683227)
+[![Phone](https://img.shields.io/badge/Phone-%2B91%207760683227-ff69b4?style=for-the-badge&logo=phone&logoColor=white)](tel:+917760683227)
 
 
 ## Acknowledgments
